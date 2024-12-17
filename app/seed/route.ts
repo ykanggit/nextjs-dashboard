@@ -1,3 +1,5 @@
+export {} // this make npm run build happy
+
 // import bcrypt from 'bcrypt';
 // import { db } from '@vercel/postgres';
 // import { invoices, customers, revenue, users } from '../lib/placeholder-data';

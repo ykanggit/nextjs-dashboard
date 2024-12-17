@@ -1,3 +1,5 @@
+export {} // this make npm run build happy
+
 // import { db } from "@vercel/postgres";
 
 // const client = await db.connect();
